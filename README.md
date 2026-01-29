@@ -14,7 +14,7 @@ I'm a passionate developer exploring **web development**, **open-source**, and *
 
 ---
 
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitasure23&show_icons=true&theme=radical)
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitasure23&show_icons=true&theme=radical&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasure23&layout=compact&theme=radical)
 
